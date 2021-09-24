@@ -2,6 +2,7 @@ const data = {
   products: [
     {
       name: 'Executive',
+      slug: 'executive',
       category: 'Shirts',
       image: '/images/shirt1.jpg',
       price: 70,
@@ -13,6 +14,7 @@ const data = {
     },
     {
       name: 'Occasion Shirt',
+      slug: 'occasion-shirt',
       category: 'Shirts',
       image: '/images/shirt2.jpg',
       price: 80,
@@ -24,6 +26,7 @@ const data = {
     },
     {
       name: 'White Shirt',
+      slug: 'white-shirt',
       category: 'Shirts',
       image: '/images/shirt3.jpg',
       price: 90,
@@ -35,6 +38,7 @@ const data = {
     }, 
     {
       name: 'Comfort Sneaks',
+      slug: 'comfort-sneaks',
       category: 'Sneakers',
       image: '/images/sneakers1.jpg',
       price: 90,
@@ -46,6 +50,7 @@ const data = {
     },
     {
       name: 'Nice Fall',
+      slug: 'nice-fall',
       category: 'Sneakers',
       image: '/images/sneakers2.jpg',
       price: 95,
@@ -57,6 +62,7 @@ const data = {
     },
     {
       name: 'Airforce Sneaks',
+      slug: 'airforce-sneaks',
       category: 'Sneakers',
       image: '/images/sneakers3.jpg',
       price: 75,
@@ -69,6 +75,7 @@ const data = {
     
     {
       name: 'Business Outfit',
+      slug: 'business-outfit',
       category: 'Collection',
       image: '/images/combo1.jpg',
       price: 90,
@@ -80,6 +87,7 @@ const data = {
     },
     {
       name: 'Fall Outfit',
+      slug: 'fall-outfit',
       category: 'Collection',
       image: '/images/combo2.jpg',
       price: 95,
@@ -91,6 +99,7 @@ const data = {
     },
     {
       name: 'Business Casuals',
+      slug: 'business-casuals',
       category: 'Collection',
       image: '/images/combo3.jpg',
       price: 75,
